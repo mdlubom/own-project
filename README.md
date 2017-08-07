@@ -1,30 +1,15 @@
 # own-project
 
 
-This README would normally document whatever steps are necessary to get your application up and running.
+I used MAMP which stands for (Macintosh, Apache, MySQL, and PHP). MAMP is an application you can install on your Mac which allows you to have access to a local PHP server and MySQL server. 
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+This is an educational website. It's specifically for  South African university's information and financial assistance. 
+The landing page explains what the website is about and how to navigate it. The is a page for all universities here in South Africa. The website doesn't only give information, there are links to the  university's official websites so that is one wants, they could follow the link and apply.
 
-### How do I get set up? ###
+It does not only give you information about the university , you can select universities according to a province, eg. if you select the Western Cape then all the universities in the province will be displayed and you can go to the specific one you want information about.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+For financial assistance there is a Bursary page and Student Loans page. The Bursary page is categorised according to tertiary courses eg. there is an option for Education bursaries. The Student Loans page is categorised by some of the banks that offer Student Loans and NSFAS. 
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+And there is a contact page whereby the user can send me comments about the website or the information that's on it.
