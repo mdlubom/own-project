@@ -1,7 +1,7 @@
 # own-project
 
 
-I used MAMP which stands for (Macintosh, Apache, MySQL, and PHP). MAMP is an application you can install on your Mac which allows you to have access to a local PHP server and MySQL server. 
+I used <dfn>MAMP</dfn> which stands for (Macintosh, Apache, MySQL, and PHP). MAMP is an application you can install on your Mac which allows you to have access to a local PHP server and MySQL server. 
 
 ### What is this repository for? ###
 
